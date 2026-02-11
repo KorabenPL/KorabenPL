@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KorabenPL
 - 👀 I’m interested in programing in C# in Unity.
-- 🌱 I treat programming as a mental challenge. The process is more important to me than my goal.
+- 🌱 I treat programming as a challenge. The process is more important to me than the goal.
 - 💞️ Rather, I want to treat GitHub as a source of ideas than cooperation.
 - 📫 ...
 - 😄 mr.
